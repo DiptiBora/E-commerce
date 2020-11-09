@@ -1,0 +1,39 @@
+.checkoutForm {
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+
+.checkoutForm_info{
+    width: 300px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+.checkoutForm_header{
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.checkoutForm_button{
+    background: #f0c14b;
+    border-radius: 2px;
+    width: 100%;
+    height: 30px;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+}
+
+.checkoutForm_creditCard{
+    width: 40px;
+    height: 30px;
+}

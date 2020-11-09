@@ -1,0 +1,12 @@
+.home{
+    max-width: 1500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.home_row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
