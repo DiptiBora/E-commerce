@@ -1,0 +1,23 @@
+.subTotal {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    background-color:lightgray;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    justify-content:space-evenly;
+}
+
+.subTotal_proceed {
+    background: #f0c14b;
+    border-radius: 2px;
+    width: 100%;
+    height: 30px;
+    border: 1px solid;
+    margin-top: 5px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+}
+  
